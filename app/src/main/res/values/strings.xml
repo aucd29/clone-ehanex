@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ehanex</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- common -->
+    <string name="activity_backkey_exit">"'뒤로' 버튼을 한번 더 누르시면 종료됩니다."</string>
+
+    <!-- login -->
+    <string name="login_pls_login">pls login</string>
+    <string name="login_user_id">id</string>
+    <string name="login_user_password">password</string>
+    <string name="login_login">login</string>
+    <string name="login_remember_id">remember id</string>
+    <string name="login_remember_password">remember password</string>
+    <string name="login_find_id">find id</string>
+    <string name="login_find_password">find password</string>
+    <string name="login_join_member">Join member</string>
+    
+    
+    <!-- member -->
+    
+    <string name="member_people">people</string>
+    <string name="member_corporate">corporate</string>
+    <string name="member_other">other</string>
+</resources>
